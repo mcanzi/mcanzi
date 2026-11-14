@@ -12,6 +12,7 @@ I am Data Scientist and LingLab Manager at the Department of Linguistics of the 
 
 ### R packages
 
+- [glasses3](https://mcanzi.de/glasses3/): reads recordings from the Tobii Pro Glasses 3 wearable eye tracker into R.
 - [simling](https://github.com/mcanzi/simling): simulated linguistic data for teaching ([documentation](https://mcanzi.de/simling/)).
 
 ### Elsewhere
