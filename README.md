@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**mcanzi/mcanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website: [mcanzi.de](https://mcanzi.de) 
 
-Here are some ideas to get you started:
+I am Data Scientist and LingLab Manager at the Department of Linguistics of the University of Konstanz. I work on multimodal speech perception, acoustic phonetics and physiological methods, and I teach statistics in R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Teaching materials
+
+- [Statistics (for Linguists)](https://github.com/mcanzi/ws26_statistics)
+- [Advanced Statistics](https://github.com/mcanzi/ss27_advanced_statistics)
+- [Forensic speech science](https://github.com/mcanzi/ws27_fss)
+
+### R packages
+
+- [simling](https://github.com/mcanzi/simling): simulated linguistic data for teaching ([documentation](https://mcanzi.de/simling/)).
+
+### Elsewhere
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=w03Fq8oAAAAJ)
+- [Personal website](https://mcanzi.de)
+
