@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 🌐 Website: [mcanzi.de](https://mcanzi.de)
 
