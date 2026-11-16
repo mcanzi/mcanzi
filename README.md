@@ -6,7 +6,7 @@ I am a Data Scientist and LingLab Manager at the Department of Linguistics of th
 
 ### 📚 Teaching materials
 
-- 📊 [Statistics (for Linguists)](https://github.com/mcanzi/ws26_statistics)
+- 📊 [Statistics](https://github.com/mcanzi/ws26_statistics)
 - 📈 [Advanced Statistics](https://github.com/mcanzi/ss27_advanced_statistics)
 - 🔍 [Forensic speech science](https://github.com/mcanzi/ws27_fss)
 
