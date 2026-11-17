@@ -1,7 +1,5 @@
 ## Hello 👋
 
-🌐 Website: [mcanzi.de](https://mcanzi.de)
-
 I am a Data Scientist and LingLab Manager at the Department of Linguistics of the University of Konstanz. I work on multimodal speech perception, acoustic phonetics and physiological methods, and I teach statistics in R.
 
 ### 📚 Teaching materials
@@ -20,3 +18,4 @@ I am a Data Scientist and LingLab Manager at the Department of Linguistics of th
 
 - 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=w03Fq8oAAAAJ)
 - 🏠 [Personal website](https://mcanzi.de)
+- 🔧 [r-universe](https://mcanzi.r-universe.dev/packages)
